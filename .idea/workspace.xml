@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BRSCore:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1662c1e7-2d7b-490c-abe1-988bd7c93a05" name="Default Changelist" comment="Окружение">
+      <change afterPath="$PROJECT_DIR$/src/main/java/firefighter/core/entity/subjectarea/BRSEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/firefighter/core/entity/subjectarea/WorkSettings.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\FireFighterGit\BRSCore\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1c2yaEwoF3xfoVPOKfMUQFzGCQF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.45172414" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RestAPIProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firefighter.core.API.RestAPIProxy" />
+      <module name="BRSCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firefighter.core.API.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RestAPIProxy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1662c1e7-2d7b-490c-abe1-988bd7c93a05" name="Default Changelist" comment="" />
+      <created>1589741043979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589741043979</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Сборка 0 brs">
+      <created>1589741591281</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589741591281</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Сборка 0 brs">
+      <created>1589777479615</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589777479615</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Сборка 0 brs">
+      <created>1589778045890</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589778045890</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Окружение">
+      <created>1589946451538</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589946451538</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Сборка 0 brs" />
+    <MESSAGE value="Окружение" />
+    <option name="LAST_COMMIT_MESSAGE" value="Окружение" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="184" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606739821677">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="530" y="184" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.870@0.0.1600.870" timestamp="1606739821677" />
+    <state x="466" y="35" key="CommitChangelistDialog2" timestamp="1606740147294">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="466" y="35" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1606740147294" />
+    <state x="580" y="146" key="FileChooserDialogImpl" timestamp="1606742908524">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="580" y="146" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1606742908524" />
+    <state x="467" y="138" key="NewModule_or_Project.wizard" timestamp="1606712757844">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="467" y="138" key="NewModule_or_Project.wizard/0.0.1600.870@0.0.1600.870" timestamp="1606712757844" />
+    <state x="280" y="11" key="SettingsEditor" timestamp="1606739720088">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="280" y="11" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1606739720088" />
+    <state x="445" y="167" width="709" height="536" key="find.popup" timestamp="1606739697700">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="445" y="167" width="709" height="536" key="find.popup/0.0.1600.870@0.0.1600.870" timestamp="1606739697700" />
+  </component>
+</project>
