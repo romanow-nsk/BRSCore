@@ -6,9 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1662c1e7-2d7b-490c-abe1-988bd7c93a05" name="Default Changelist" comment="Окружение">
-      <change afterPath="$PROJECT_DIR$/src/main/java/firefighter/core/entity/subjectarea/BRSEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/firefighter/core/entity/subjectarea/WorkSettings.java" afterDir="false" />
+    <list default="true" id="1662c1e7-2d7b-490c-abe1-988bd7c93a05" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/FireFighterGit/UnityCore" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.45172414" />
@@ -125,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589946451538</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Окружение">
+      <created>1606742936760</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606742936762</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -138,22 +144,26 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="530" y="184" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.870@0.0.1600.870" timestamp="1606739821677" />
-    <state x="466" y="35" key="CommitChangelistDialog2" timestamp="1606740147294">
+    <state x="466" y="35" key="CommitChangelistDialog2" timestamp="1606742934856">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="466" y="35" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1606740147294" />
-    <state x="580" y="146" key="FileChooserDialogImpl" timestamp="1606742908524">
+    <state x="466" y="35" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1606742934856" />
+    <state x="580" y="146" key="FileChooserDialogImpl" timestamp="1606743286209">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="580" y="146" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1606742908524" />
-    <state x="467" y="138" key="NewModule_or_Project.wizard" timestamp="1606712757844">
+    <state x="580" y="146" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1606743286209" />
+    <state x="467" y="138" key="NewModule_or_Project.wizard" timestamp="1606743288039">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="467" y="138" key="NewModule_or_Project.wizard/0.0.1600.870@0.0.1600.870" timestamp="1606712757844" />
-    <state x="280" y="11" key="SettingsEditor" timestamp="1606739720088">
+    <state x="467" y="138" key="NewModule_or_Project.wizard/0.0.1600.870@0.0.1600.870" timestamp="1606743288039" />
+    <state x="280" y="11" key="SettingsEditor" timestamp="1606743305196">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="280" y="11" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1606739720088" />
+    <state x="280" y="11" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1606743305196" />
+    <state x="392" y="158" key="Vcs.Push.Dialog.v2" timestamp="1606742976161">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="392" y="158" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1606742976161" />
     <state x="445" y="167" width="709" height="536" key="find.popup" timestamp="1606739697700">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
